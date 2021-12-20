@@ -1,0 +1,11 @@
+{
+  "name": "canvas-click-and-drag",
+  "version": "1.0.0",
+  "description": "set of tools to create clickable and draggable objects on the html5 canvas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kyle Sorenson",
+  "license": "ISC"
+}
