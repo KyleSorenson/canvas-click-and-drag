@@ -4,7 +4,8 @@
   "description": "set of tools to create clickable and draggable objects on the html5 canvas",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server --port=1234 --entry-file=index.html"
   },
   "author": "Kyle Sorenson",
   "license": "ISC"
